@@ -10,4 +10,3 @@ df.isnull(),sum()
 df["sindhu"].isnull().sum()
 
 #end of the code
-#end of the code
